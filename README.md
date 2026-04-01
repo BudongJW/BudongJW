@@ -5,7 +5,16 @@
 ## 📊 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BudongJW&layout=compact&theme=tokyonight&langs_count=8&hide_border=true" alt="Top Languages" />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BudongJW&layout=compact&theme=tokyonight&langs_count=8&hide_border=true&cache_seconds=1800" alt="Top Languages" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/BudongJW">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BudongJW&theme=tokyonight" alt="Repos per Language" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BudongJW&theme=tokyonight" alt="Most Commit Language" />
+  </a>
 </p>
 
 <br/>
