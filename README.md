@@ -16,16 +16,16 @@
 ## 🚀 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/BudongJW/real-estate-analysis-notebooks/pull/1) in [BudongJW/real-estate-analysis-notebooks](https://github.com/BudongJW/real-estate-analysis-notebooks)
-2. 💪 Opened PR [#1](https://github.com/BudongJW/real-estate-analysis-notebooks/pull/1) in [BudongJW/real-estate-analysis-notebooks](https://github.com/BudongJW/real-estate-analysis-notebooks)
-3. 🎉 Merged PR [#8](https://github.com/BudongJW/political-theme-stock/pull/8) in [BudongJW/political-theme-stock](https://github.com/BudongJW/political-theme-stock)
-4. 💪 Opened PR [#8](https://github.com/BudongJW/political-theme-stock/pull/8) in [BudongJW/political-theme-stock](https://github.com/BudongJW/political-theme-stock)
-5. 🎉 Merged PR [#7](https://github.com/BudongJW/political-theme-stock/pull/7) in [BudongJW/political-theme-stock](https://github.com/BudongJW/political-theme-stock)
-6. 💪 Opened PR [#7](https://github.com/BudongJW/political-theme-stock/pull/7) in [BudongJW/political-theme-stock](https://github.com/BudongJW/political-theme-stock)
-7. 🔒 Closed issue [#6](https://github.com/BudongJW/political-theme-stock/issues/6) in [BudongJW/political-theme-stock](https://github.com/BudongJW/political-theme-stock)
-8. ❗ Opened issue [#6](https://github.com/BudongJW/political-theme-stock/issues/6) in [BudongJW/political-theme-stock](https://github.com/BudongJW/political-theme-stock)
-9. ❌ Closed PR [#846](https://github.com/harry0703/MoneyPrinterTurbo/pull/846) in [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)
-10. ❗ Opened issue [#5](https://github.com/BudongJW/political-theme-stock/issues/5) in [BudongJW/political-theme-stock](https://github.com/BudongJW/political-theme-stock)
+1. 🔒 Closed issue [#5](https://github.com/BudongJW/political-theme-stock/issues/5) in [BudongJW/political-theme-stock](https://github.com/BudongJW/political-theme-stock)
+2. 🔒 Closed issue [#4](https://github.com/BudongJW/political-theme-stock/issues/4) in [BudongJW/political-theme-stock](https://github.com/BudongJW/political-theme-stock)
+3. 🔒 Closed issue [#3](https://github.com/BudongJW/political-theme-stock/issues/3) in [BudongJW/political-theme-stock](https://github.com/BudongJW/political-theme-stock)
+4. 🔒 Closed issue [#2](https://github.com/BudongJW/political-theme-stock/issues/2) in [BudongJW/political-theme-stock](https://github.com/BudongJW/political-theme-stock)
+5. 🔒 Closed issue [#1](https://github.com/BudongJW/political-theme-stock/issues/1) in [BudongJW/political-theme-stock](https://github.com/BudongJW/political-theme-stock)
+6. 🎉 Merged PR [#1](https://github.com/BudongJW/real-estate-analysis-notebooks/pull/1) in [BudongJW/real-estate-analysis-notebooks](https://github.com/BudongJW/real-estate-analysis-notebooks)
+7. 💪 Opened PR [#1](https://github.com/BudongJW/real-estate-analysis-notebooks/pull/1) in [BudongJW/real-estate-analysis-notebooks](https://github.com/BudongJW/real-estate-analysis-notebooks)
+8. 🎉 Merged PR [#8](https://github.com/BudongJW/political-theme-stock/pull/8) in [BudongJW/political-theme-stock](https://github.com/BudongJW/political-theme-stock)
+9. 💪 Opened PR [#8](https://github.com/BudongJW/political-theme-stock/pull/8) in [BudongJW/political-theme-stock](https://github.com/BudongJW/political-theme-stock)
+10. 🎉 Merged PR [#7](https://github.com/BudongJW/political-theme-stock/pull/7) in [BudongJW/political-theme-stock](https://github.com/BudongJW/political-theme-stock)
 <!--END_SECTION:activity-->
 
 <br/>
