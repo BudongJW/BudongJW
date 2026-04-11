@@ -16,16 +16,16 @@
 ## 🚀 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#1124](https://github.com/scanny/python-pptx/issues/1124) in [scanny/python-pptx](https://github.com/scanny/python-pptx)
-2. ❗ Opened issue [#1124](https://github.com/scanny/python-pptx/issues/1124) in [scanny/python-pptx](https://github.com/scanny/python-pptx)
-3. 🚀 Published release [v1.0.0 — 정치 테마주 분석 시스템 첫 릴리즈](https://github.com/BudongJW/political-theme-stock/releases/tag/v1.0.0) in [BudongJW/political-theme-stock](https://github.com/BudongJW/political-theme-stock)
-4. 🔒 Closed issue [#5](https://github.com/BudongJW/political-theme-stock/issues/5) in [BudongJW/political-theme-stock](https://github.com/BudongJW/political-theme-stock)
-5. 🔒 Closed issue [#4](https://github.com/BudongJW/political-theme-stock/issues/4) in [BudongJW/political-theme-stock](https://github.com/BudongJW/political-theme-stock)
-6. 🔒 Closed issue [#3](https://github.com/BudongJW/political-theme-stock/issues/3) in [BudongJW/political-theme-stock](https://github.com/BudongJW/political-theme-stock)
-7. 🔒 Closed issue [#2](https://github.com/BudongJW/political-theme-stock/issues/2) in [BudongJW/political-theme-stock](https://github.com/BudongJW/political-theme-stock)
-8. 🔒 Closed issue [#1](https://github.com/BudongJW/political-theme-stock/issues/1) in [BudongJW/political-theme-stock](https://github.com/BudongJW/political-theme-stock)
-9. 🎉 Merged PR [#1](https://github.com/BudongJW/real-estate-analysis-notebooks/pull/1) in [BudongJW/real-estate-analysis-notebooks](https://github.com/BudongJW/real-estate-analysis-notebooks)
-10. 💪 Opened PR [#1](https://github.com/BudongJW/real-estate-analysis-notebooks/pull/1) in [BudongJW/real-estate-analysis-notebooks](https://github.com/BudongJW/real-estate-analysis-notebooks)
+1. 🔒 Closed issue [#1](https://github.com/BudongJW/midgard-ts/issues/1) in [BudongJW/midgard-ts](https://github.com/BudongJW/midgard-ts)
+2. 🎉 Merged PR [#11](https://github.com/BudongJW/midgard-ts/pull/11) in [BudongJW/midgard-ts](https://github.com/BudongJW/midgard-ts)
+3. 💪 Opened PR [#11](https://github.com/BudongJW/midgard-ts/pull/11) in [BudongJW/midgard-ts](https://github.com/BudongJW/midgard-ts)
+4. ℹ️ Labeled issue [#10](https://github.com/BudongJW/midgard-ts/issues/10) in [BudongJW/midgard-ts](https://github.com/BudongJW/midgard-ts)
+5. ❗ Opened issue [#10](https://github.com/BudongJW/midgard-ts/issues/10) in [BudongJW/midgard-ts](https://github.com/BudongJW/midgard-ts)
+6. ℹ️ Labeled issue [#9](https://github.com/BudongJW/midgard-ts/issues/9) in [BudongJW/midgard-ts](https://github.com/BudongJW/midgard-ts)
+7. ❗ Opened issue [#9](https://github.com/BudongJW/midgard-ts/issues/9) in [BudongJW/midgard-ts](https://github.com/BudongJW/midgard-ts)
+8. ℹ️ Labeled issue [#8](https://github.com/BudongJW/midgard-ts/issues/8) in [BudongJW/midgard-ts](https://github.com/BudongJW/midgard-ts)
+9. ❗ Opened issue [#8](https://github.com/BudongJW/midgard-ts/issues/8) in [BudongJW/midgard-ts](https://github.com/BudongJW/midgard-ts)
+10. ℹ️ Labeled issue [#7](https://github.com/BudongJW/midgard-ts/issues/7) in [BudongJW/midgard-ts](https://github.com/BudongJW/midgard-ts)
 <!--END_SECTION:activity-->
 
 <br/>
