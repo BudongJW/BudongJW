@@ -16,7 +16,7 @@
 ## 🚀 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#12](https://github.com/BudongJW/political-theme-stock/pull/12) in [BudongJW/political-theme-stock](https://github.com/BudongJW/political-theme-stock)
+1. 💪 Opened PR [#2](https://github.com/BudongJW/kis-autotrader/pull/2) in [BudongJW/kis-autotrader](https://github.com/BudongJW/kis-autotrader)
 2. 💪 Opened PR [#12](https://github.com/BudongJW/political-theme-stock/pull/12) in [BudongJW/political-theme-stock](https://github.com/BudongJW/political-theme-stock)
 3. 🎉 Merged PR [#11](https://github.com/BudongJW/political-theme-stock/pull/11) in [BudongJW/political-theme-stock](https://github.com/BudongJW/political-theme-stock)
 4. 🔒 Closed issue [#1](https://github.com/BudongJW/midgard-ts/issues/1) in [BudongJW/midgard-ts](https://github.com/BudongJW/midgard-ts)
