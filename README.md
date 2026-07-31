@@ -16,16 +16,16 @@
 ## 🚀 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/BudongJW/kis-autotrader/pull/4) in [BudongJW/kis-autotrader](https://github.com/BudongJW/kis-autotrader)
-2. 💪 Opened PR [#4](https://github.com/BudongJW/kis-autotrader/pull/4) in [BudongJW/kis-autotrader](https://github.com/BudongJW/kis-autotrader)
-3. 🎉 Merged PR [#3](https://github.com/BudongJW/kis-autotrader/pull/3) in [BudongJW/kis-autotrader](https://github.com/BudongJW/kis-autotrader)
-4. 💪 Opened PR [#3](https://github.com/BudongJW/kis-autotrader/pull/3) in [BudongJW/kis-autotrader](https://github.com/BudongJW/kis-autotrader)
-5. 🎉 Merged PR [#2](https://github.com/BudongJW/kis-autotrader/pull/2) in [BudongJW/kis-autotrader](https://github.com/BudongJW/kis-autotrader)
-6. 💪 Opened PR [#2](https://github.com/BudongJW/kis-autotrader/pull/2) in [BudongJW/kis-autotrader](https://github.com/BudongJW/kis-autotrader)
-7. ℹ️ Labeled issue [#9](https://github.com/BudongJW/midgard-ts/issues/9) in [BudongJW/midgard-ts](https://github.com/BudongJW/midgard-ts)
-8. ❗ Opened issue [#9](https://github.com/BudongJW/midgard-ts/issues/9) in [BudongJW/midgard-ts](https://github.com/BudongJW/midgard-ts)
-9. ℹ️ Labeled issue [#8](https://github.com/BudongJW/midgard-ts/issues/8) in [BudongJW/midgard-ts](https://github.com/BudongJW/midgard-ts)
-10. ❗ Opened issue [#8](https://github.com/BudongJW/midgard-ts/issues/8) in [BudongJW/midgard-ts](https://github.com/BudongJW/midgard-ts)
+1. 🎉 Merged PR [#6](https://github.com/BudongJW/kis-autotrader/pull/6) in [BudongJW/kis-autotrader](https://github.com/BudongJW/kis-autotrader)
+2. 💪 Opened PR [#6](https://github.com/BudongJW/kis-autotrader/pull/6) in [BudongJW/kis-autotrader](https://github.com/BudongJW/kis-autotrader)
+3. 🎉 Merged PR [#5](https://github.com/BudongJW/kis-autotrader/pull/5) in [BudongJW/kis-autotrader](https://github.com/BudongJW/kis-autotrader)
+4. 💪 Opened PR [#5](https://github.com/BudongJW/kis-autotrader/pull/5) in [BudongJW/kis-autotrader](https://github.com/BudongJW/kis-autotrader)
+5. 🎉 Merged PR [#4](https://github.com/BudongJW/kis-autotrader/pull/4) in [BudongJW/kis-autotrader](https://github.com/BudongJW/kis-autotrader)
+6. 💪 Opened PR [#4](https://github.com/BudongJW/kis-autotrader/pull/4) in [BudongJW/kis-autotrader](https://github.com/BudongJW/kis-autotrader)
+7. 🎉 Merged PR [#3](https://github.com/BudongJW/kis-autotrader/pull/3) in [BudongJW/kis-autotrader](https://github.com/BudongJW/kis-autotrader)
+8. 💪 Opened PR [#3](https://github.com/BudongJW/kis-autotrader/pull/3) in [BudongJW/kis-autotrader](https://github.com/BudongJW/kis-autotrader)
+9. 🎉 Merged PR [#2](https://github.com/BudongJW/kis-autotrader/pull/2) in [BudongJW/kis-autotrader](https://github.com/BudongJW/kis-autotrader)
+10. 💪 Opened PR [#2](https://github.com/BudongJW/kis-autotrader/pull/2) in [BudongJW/kis-autotrader](https://github.com/BudongJW/kis-autotrader)
 <!--END_SECTION:activity-->
 
 <br/>
