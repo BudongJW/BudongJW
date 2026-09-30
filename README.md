@@ -16,10 +16,10 @@
 ## 🚀 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/BudongJW/imjangwang-shorts/pull/2) in [BudongJW/imjangwang-shorts](https://github.com/BudongJW/imjangwang-shorts)
-2. 💪 Opened PR [#2](https://github.com/BudongJW/imjangwang-shorts/pull/2) in [BudongJW/imjangwang-shorts](https://github.com/BudongJW/imjangwang-shorts)
-3. 🎉 Merged PR [#1](https://github.com/BudongJW/imjangwang-shorts/pull/1) in [BudongJW/imjangwang-shorts](https://github.com/BudongJW/imjangwang-shorts)
-4. 💪 Opened PR [#1](https://github.com/BudongJW/imjangwang-shorts/pull/1) in [BudongJW/imjangwang-shorts](https://github.com/BudongJW/imjangwang-shorts)
+1. 🎉 Merged PR [#13](https://github.com/BudongJW/political-theme-stock/pull/13) in [BudongJW/political-theme-stock](https://github.com/BudongJW/political-theme-stock)
+2. 🎉 Merged PR [#14](https://github.com/BudongJW/political-theme-stock/pull/14) in [BudongJW/political-theme-stock](https://github.com/BudongJW/political-theme-stock)
+3. 💪 Opened PR [#14](https://github.com/BudongJW/political-theme-stock/pull/14) in [BudongJW/political-theme-stock](https://github.com/BudongJW/political-theme-stock)
+4. 💪 Opened PR [#13](https://github.com/BudongJW/political-theme-stock/pull/13) in [BudongJW/political-theme-stock](https://github.com/BudongJW/political-theme-stock)
 5. 🎉 Merged PR [#8](https://github.com/BudongJW/kis-autotrader/pull/8) in [BudongJW/kis-autotrader](https://github.com/BudongJW/kis-autotrader)
 6. 💪 Opened PR [#8](https://github.com/BudongJW/kis-autotrader/pull/8) in [BudongJW/kis-autotrader](https://github.com/BudongJW/kis-autotrader)
 7. 🎉 Merged PR [#7](https://github.com/BudongJW/kis-autotrader/pull/7) in [BudongJW/kis-autotrader](https://github.com/BudongJW/kis-autotrader)
