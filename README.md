@@ -16,16 +16,16 @@
 ## 🚀 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#9](https://github.com/BudongJW/kis-autotrader/pull/9) in [BudongJW/kis-autotrader](https://github.com/BudongJW/kis-autotrader)
-2. 🎉 Merged PR [#9](https://github.com/BudongJW/gihanjigi/pull/9) in [BudongJW/gihanjigi](https://github.com/BudongJW/gihanjigi)
-3. 💪 Opened PR [#9](https://github.com/BudongJW/gihanjigi/pull/9) in [BudongJW/gihanjigi](https://github.com/BudongJW/gihanjigi)
-4. 🎉 Merged PR [#8](https://github.com/BudongJW/gihanjigi/pull/8) in [BudongJW/gihanjigi](https://github.com/BudongJW/gihanjigi)
-5. 💪 Opened PR [#8](https://github.com/BudongJW/gihanjigi/pull/8) in [BudongJW/gihanjigi](https://github.com/BudongJW/gihanjigi)
-6. 🎉 Merged PR [#7](https://github.com/BudongJW/gihanjigi/pull/7) in [BudongJW/gihanjigi](https://github.com/BudongJW/gihanjigi)
-7. 💪 Opened PR [#7](https://github.com/BudongJW/gihanjigi/pull/7) in [BudongJW/gihanjigi](https://github.com/BudongJW/gihanjigi)
-8. 🎉 Merged PR [#6](https://github.com/BudongJW/gihanjigi/pull/6) in [BudongJW/gihanjigi](https://github.com/BudongJW/gihanjigi)
-9. 💪 Opened PR [#6](https://github.com/BudongJW/gihanjigi/pull/6) in [BudongJW/gihanjigi](https://github.com/BudongJW/gihanjigi)
-10. 🎉 Merged PR [#5](https://github.com/BudongJW/gihanjigi/pull/5) in [BudongJW/gihanjigi](https://github.com/BudongJW/gihanjigi)
+1. 💪 Opened PR [#4](https://github.com/BudongJW/imjangwang-shorts/pull/4) in [BudongJW/imjangwang-shorts](https://github.com/BudongJW/imjangwang-shorts)
+2. 💪 Opened PR [#3](https://github.com/BudongJW/imjangwang-shorts/pull/3) in [BudongJW/imjangwang-shorts](https://github.com/BudongJW/imjangwang-shorts)
+3. 💪 Opened PR [#9](https://github.com/BudongJW/kis-autotrader/pull/9) in [BudongJW/kis-autotrader](https://github.com/BudongJW/kis-autotrader)
+4. 🎉 Merged PR [#9](https://github.com/BudongJW/gihanjigi/pull/9) in [BudongJW/gihanjigi](https://github.com/BudongJW/gihanjigi)
+5. 💪 Opened PR [#9](https://github.com/BudongJW/gihanjigi/pull/9) in [BudongJW/gihanjigi](https://github.com/BudongJW/gihanjigi)
+6. 🎉 Merged PR [#8](https://github.com/BudongJW/gihanjigi/pull/8) in [BudongJW/gihanjigi](https://github.com/BudongJW/gihanjigi)
+7. 💪 Opened PR [#8](https://github.com/BudongJW/gihanjigi/pull/8) in [BudongJW/gihanjigi](https://github.com/BudongJW/gihanjigi)
+8. 🎉 Merged PR [#7](https://github.com/BudongJW/gihanjigi/pull/7) in [BudongJW/gihanjigi](https://github.com/BudongJW/gihanjigi)
+9. 💪 Opened PR [#7](https://github.com/BudongJW/gihanjigi/pull/7) in [BudongJW/gihanjigi](https://github.com/BudongJW/gihanjigi)
+10. 🎉 Merged PR [#6](https://github.com/BudongJW/gihanjigi/pull/6) in [BudongJW/gihanjigi](https://github.com/BudongJW/gihanjigi)
 <!--END_SECTION:activity-->
 
 <br/>
