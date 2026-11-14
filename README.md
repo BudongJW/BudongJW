@@ -16,15 +16,15 @@
 ## 🚀 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/BudongJW/Poker/pull/3) in [BudongJW/Poker](https://github.com/BudongJW/Poker)
-2. 💪 Opened PR [#3](https://github.com/BudongJW/Poker/pull/3) in [BudongJW/Poker](https://github.com/BudongJW/Poker)
-3. 🎉 Merged PR [#1](https://github.com/BudongJW/isurvey_auto/pull/1) in [BudongJW/isurvey_auto](https://github.com/BudongJW/isurvey_auto)
-4. 🎉 Merged PR [#2](https://github.com/BudongJW/isurvey_auto/pull/2) in [BudongJW/isurvey_auto](https://github.com/BudongJW/isurvey_auto)
-5. 💪 Opened PR [#2](https://github.com/BudongJW/isurvey_auto/pull/2) in [BudongJW/isurvey_auto](https://github.com/BudongJW/isurvey_auto)
-6. 💪 Opened PR [#1](https://github.com/BudongJW/isurvey_auto/pull/1) in [BudongJW/isurvey_auto](https://github.com/BudongJW/isurvey_auto)
-7. 💪 Opened PR [#4](https://github.com/BudongJW/imjangwang-shorts/pull/4) in [BudongJW/imjangwang-shorts](https://github.com/BudongJW/imjangwang-shorts)
-8. 💪 Opened PR [#3](https://github.com/BudongJW/imjangwang-shorts/pull/3) in [BudongJW/imjangwang-shorts](https://github.com/BudongJW/imjangwang-shorts)
-9. 💪 Opened PR [#7](https://github.com/BudongJW/gihanjigi/pull/7) in [BudongJW/gihanjigi](https://github.com/BudongJW/gihanjigi)
+1. 💪 Opened PR [#4](https://github.com/BudongJW/Poker/pull/4) in [BudongJW/Poker](https://github.com/BudongJW/Poker)
+2. 🎉 Merged PR [#3](https://github.com/BudongJW/Poker/pull/3) in [BudongJW/Poker](https://github.com/BudongJW/Poker)
+3. 💪 Opened PR [#3](https://github.com/BudongJW/Poker/pull/3) in [BudongJW/Poker](https://github.com/BudongJW/Poker)
+4. 🎉 Merged PR [#1](https://github.com/BudongJW/isurvey_auto/pull/1) in [BudongJW/isurvey_auto](https://github.com/BudongJW/isurvey_auto)
+5. 🎉 Merged PR [#2](https://github.com/BudongJW/isurvey_auto/pull/2) in [BudongJW/isurvey_auto](https://github.com/BudongJW/isurvey_auto)
+6. 💪 Opened PR [#2](https://github.com/BudongJW/isurvey_auto/pull/2) in [BudongJW/isurvey_auto](https://github.com/BudongJW/isurvey_auto)
+7. 💪 Opened PR [#1](https://github.com/BudongJW/isurvey_auto/pull/1) in [BudongJW/isurvey_auto](https://github.com/BudongJW/isurvey_auto)
+8. 💪 Opened PR [#4](https://github.com/BudongJW/imjangwang-shorts/pull/4) in [BudongJW/imjangwang-shorts](https://github.com/BudongJW/imjangwang-shorts)
+9. 💪 Opened PR [#3](https://github.com/BudongJW/imjangwang-shorts/pull/3) in [BudongJW/imjangwang-shorts](https://github.com/BudongJW/imjangwang-shorts)
 10. 🎉 Merged PR [#6](https://github.com/BudongJW/gihanjigi/pull/6) in [BudongJW/gihanjigi](https://github.com/BudongJW/gihanjigi)
 <!--END_SECTION:activity-->
 
