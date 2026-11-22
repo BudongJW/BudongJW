@@ -16,11 +16,11 @@
 ## 🚀 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#39](https://github.com/BudongJW/stream2clip/pull/39) in [BudongJW/stream2clip](https://github.com/BudongJW/stream2clip)
-2. 💪 Opened PR [#39](https://github.com/BudongJW/stream2clip/pull/39) in [BudongJW/stream2clip](https://github.com/BudongJW/stream2clip)
-3. 🚀 Published release [stream2clip v0.14.1](https://github.com/BudongJW/stream2clip/releases/tag/v0.14.1) in [BudongJW/stream2clip](https://github.com/BudongJW/stream2clip)
-4. 🎉 Merged PR [#38](https://github.com/BudongJW/stream2clip/pull/38) in [BudongJW/stream2clip](https://github.com/BudongJW/stream2clip)
-5. 💪 Opened PR [#38](https://github.com/BudongJW/stream2clip/pull/38) in [BudongJW/stream2clip](https://github.com/BudongJW/stream2clip)
+1. 🎉 Merged PR [#41](https://github.com/BudongJW/stream2clip/pull/41) in [BudongJW/stream2clip](https://github.com/BudongJW/stream2clip)
+2. 💪 Opened PR [#41](https://github.com/BudongJW/stream2clip/pull/41) in [BudongJW/stream2clip](https://github.com/BudongJW/stream2clip)
+3. 🚀 Published release [stream2clip v0.15.0](https://github.com/BudongJW/stream2clip/releases/tag/v0.15.0) in [BudongJW/stream2clip](https://github.com/BudongJW/stream2clip)
+4. 🎉 Merged PR [#40](https://github.com/BudongJW/stream2clip/pull/40) in [BudongJW/stream2clip](https://github.com/BudongJW/stream2clip)
+5. 💪 Opened PR [#40](https://github.com/BudongJW/stream2clip/pull/40) in [BudongJW/stream2clip](https://github.com/BudongJW/stream2clip)
 6. 🚀 Published release [stream2clip v0.14.0](https://github.com/BudongJW/stream2clip/releases/tag/v0.14.0) in [BudongJW/stream2clip](https://github.com/BudongJW/stream2clip)
 7. 🎉 Merged PR [#37](https://github.com/BudongJW/stream2clip/pull/37) in [BudongJW/stream2clip](https://github.com/BudongJW/stream2clip)
 8. 💪 Opened PR [#37](https://github.com/BudongJW/stream2clip/pull/37) in [BudongJW/stream2clip](https://github.com/BudongJW/stream2clip)
